@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Viewholdertv" type="id" />
+    <item name="descTv" type="id" />
+    <item name="image" type="id" />
+    <item name="progress" type="id" />
+    <item name="cardView" type="id" />
+    <item name="toolbar" type="id" />
+    <item name="rssView" type="id" />
+    <item name="swipe" type="id" />
+    <!--item name="ViewholderOtherstv" type="id" / -->
+
+</resources>

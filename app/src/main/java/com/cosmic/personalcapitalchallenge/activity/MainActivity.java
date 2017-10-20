@@ -83,8 +83,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void parseandLoadFromRssFeed(){
-        ParserTask task = new ParserTask();
-        task.execute();
+        RefreshClicked();
     }
 
     // Adds all the child views to drawer layout

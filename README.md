@@ -16,3 +16,6 @@ The following **required** functionality is completed:
 * [x] Tablet - shows 3 columns and phone shows 2 columns of Rss feed items
 * [x] Links opens in the embedded web view
 
+Video Walkthrough Links : https://i.imgur.com/u19786i.gif 
+https://i.imgur.com/iVB0hRj.gif 
+https://i.imgur.com/yIdXDa7.gif

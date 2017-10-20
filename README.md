@@ -20,8 +20,14 @@ The following **required** functionality is completed:
 * [x] Application can be launched in both Landscape and portrait orientations
 * [x] Used appropriate progress bar and images to indicate the user on loading tasks
 
-Video Walkthrough Links : https://i.imgur.com/u19786i.gif 
+Video Walkthrough Links : 
+
+https://i.imgur.com/u19786i.gif 
+
+
 https://i.imgur.com/iVB0hRj.gif 
+
+
 https://i.imgur.com/yIdXDa7.gif
 
 
